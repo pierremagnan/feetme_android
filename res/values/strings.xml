@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Feetme_demo</string>
+    <string name="hello_world">Welcome to FeetMe !</string>
+    <string name="title_activity_device_scan">DeviceScanActivity</string>
+    <string name="ble_not_supported">Bluetooth Low Energy is not supported</string>
+    <string name="ble_supported">Bluetooth Low Energy is supported</string>
+</resources>
